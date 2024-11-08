@@ -75,7 +75,7 @@ Others:
 
 * `A`: climb to the next or the previous level ;
 * `Select`: swap the LCD screen ;
-* `Start`: die ;
+* `Start`: 👺 die ;
 
 - &gt; stairs down
 - < stairs up
