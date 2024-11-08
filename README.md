@@ -1,6 +1,6 @@
 # dust
 
-👺 [rogue](https://github.com/Davidslv/rogue "Davidslv/rogue: Original Rogue Game (5.4.4)") ≺ [hack](https://github.com/openbsd/src/tree/master/games/hack "src/games/hack at master · openbsd/src") ≺ [dust](#dust)
+🎲 a dungeon-crawling game ported to 3DS 
 
 ## Contents
 
@@ -14,6 +14,8 @@
 
 1. [eltikia/openroguelike](https://github.com/eltikia/openroguelike "eltikia/openroguelike: The beginning of something that might end as a roguelike development library. But we'll see.")
 1. [maze](https://gist.github.com/Stagyrite/a72b22cd3c6ec16e6f33de589fa16ceb "a maze generator inspired by Maze")
+1. [rogue](https://github.com/Davidslv/rogue "Davidslv/rogue: Original Rogue Game (5.4.4)")
+1. [hack](https://github.com/openbsd/src/tree/master/games/hack "src/games/hack at master · openbsd/src")
 
 ## Story
 
