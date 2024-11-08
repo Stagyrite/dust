@@ -4,7 +4,7 @@
 
 ## Contents
 
-1. [Inspired by](#inspiredby)
+1. [Inspired by](#inspired-by)
 1. [Story](#story)
 1. [Install](#install)
 1. [Instructions](#instructions)
