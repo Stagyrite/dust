@@ -53,7 +53,7 @@ Run build.bat and it should output binaries to the 'output' directory.
 To install, copy the content of the 'output' directory
 to your 3DS. The destination directory has to have the 'nds'
 subdirectory, e.g. roms/nds/Pstros072nds/classes. Now load
-the FighersGuild.class file with TwiLight Menu++ and the game
+the Dust.class file with TwiLight Menu++ and the game
 is all for you.
 
 ## Instructions
