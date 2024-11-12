@@ -21,13 +21,13 @@
 
 ```
  _________________________________________
-/ The Fighter's Guild is ready to be      \
+/ The Fighters Guild is ready to be       \
 | established in a ghost town. Because of |
 | your position as a dungeon crawler,     |
 | Lord Kiron had ordered you to crawl     |
 | down to level 99. Lord Kiron believes   |
 | that your success can help the          |
-\ Fighter's Guild.                        /
+\ Fighters Guild.                         /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
