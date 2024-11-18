@@ -1,21 +1,14 @@
 # dust
 
-🎲 a dungeon-crawling game ported to 3DS 
+🧮 a dungeon-crawling game ported to 3DS 
 
 ## Contents
 
-1. [Inspired by](#inspired-by)
 1. [Story](#story)
 1. [Install](#install)
 1. [Instructions](#instructions)
+1. [Inspired by](#inspired-by)
 1. [Jokes](#jokes)
-
-## Inspired by
-
-1. [eltikia/openroguelike](https://github.com/eltikia/openroguelike "eltikia/openroguelike: The beginning of something that might end as a roguelike development library. But we'll see.")
-1. [maze](https://gist.github.com/Stagyrite/a72b22cd3c6ec16e6f33de589fa16ceb "a maze generator inspired by Maze")
-1. [rogue](https://github.com/Davidslv/rogue "Davidslv/rogue: Original Rogue Game (5.4.4)")
-1. [hack](https://github.com/openbsd/src/tree/master/games/hack "src/games/hack at master · openbsd/src")
 
 ## Story
 
@@ -40,7 +33,7 @@
 
 ### Requires
 
-* Nintendo 3DS or compatible
+* Hardmodded Nintendo 3DS or compatible
 * [TwiLight Menu++ developed by Rocket Robz](https://wiki.ds-homebrew.com/twilightmenu/ "TWiLight Menu++ | DS-Homebrew Wiki")
 * [Pstros NDS](https://github.com/ole00/pstros-nds "ole00/pstros-nds: J2ME MIDP implementation")
 * A computer to transfer files to a microSD card
@@ -73,9 +66,9 @@ Directions:
 
 Others:
 
-* `A`: climb to the next or the previous level ;
-* `Select`: swap the LCD screen ;
-* `Start`: 👺 die ;
+* `A`: climb to the next or the previous level
+* `Select`: swap the LCD screen
+* `Start`: 👺 die
 
 - &gt; stairs down
 - < stairs up
@@ -84,6 +77,13 @@ Others:
 - 'c' cow
 - '@' player
 
+## Inspired by
+
+1. [eltikia/openroguelike](https://github.com/eltikia/openroguelike "eltikia/openroguelike: The beginning of something that might end as a roguelike development library. But we'll see.")
+1. [maze](https://gist.github.com/Stagyrite/a72b22cd3c6ec16e6f33de589fa16ceb "a maze generator inspired by Maze")
+1. [rogue](https://github.com/Davidslv/rogue "Davidslv/rogue: Original Rogue Game (5.4.4)")
+1. [hack](https://github.com/openbsd/src/tree/master/games/hack "src/games/hack at master · openbsd/src")
+   
 ## Jokes
 
 ![README Jokes](https://readme-jokes.vercel.app/api?theme=react)
