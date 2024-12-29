@@ -84,7 +84,7 @@ is all for you.
 | c | cow |
 | @ | player |
 
-### ["Inspired by"] | stdout
+### ["Inspired", "by"] | stdout
 
 * [eltikia/openroguelike](https://github.com/eltikia/openroguelike "eltikia/openroguelike: The beginning of something that might end as a roguelike development library. But we'll see.")
 * [maze](https://gist.github.com/Stagyrite/a72b22cd3c6ec16e6f33de589fa16ceb "a maze generator inspired by Maze")
