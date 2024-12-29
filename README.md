@@ -40,7 +40,6 @@
 * Hardmodded Nintendo 3DS or compatible
 * [TwiLight Menu++ developed by Rocket Robz](https://wiki.ds-homebrew.com/twilightmenu/ "TWiLight Menu++ &#124; DS-Homebrew Wiki")
 * [Pstros NDS](https://github.com/ole00/pstros-nds "ole00/pstros-nds: J2ME MIDP implementation")
-* A computer to transfer files 
 
 #### ["Build"] | stdout
 
@@ -75,6 +74,9 @@ is all for you.
 | A | climb to the next or the previous level |
 | Select | swap the LCD screen |
 | Start | 👺 die |
+
+| Tile | Type |
+| :--- | ---: |
 | &gt; | stairs down |
 | < | stairs up |
 | = | wall |
