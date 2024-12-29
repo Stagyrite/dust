@@ -9,10 +9,12 @@
    * [Requires](#requires--stdout)
    * [Build](#build--stdout)
 1. [Instructions](#instructions--stdout)
+   * [Directions](#directions--stdout)
+   * [Others](#others--stdout)
 1. [Inspired by](#inspired-by--stdout)
 1. [Jokes](#jokes--stdout)
 
-## ["Story"] | stdout
+### ["Story"] | stdout
 
 ```
  _________________________________________
@@ -31,16 +33,16 @@
                 ||     |
 ```
 
-## ["Install"] | stdout
+### ["Install"] | stdout
 
-### ["Requires"] | stdout
+#### ["Requires"] | stdout
 
 * Hardmodded Nintendo 3DS or compatible
 * [TwiLight Menu++ developed by Rocket Robz](https://wiki.ds-homebrew.com/twilightmenu/ "TWiLight Menu++ | DS-Homebrew Wiki")
 * [Pstros NDS](https://github.com/ole00/pstros-nds "ole00/pstros-nds: J2ME MIDP implementation")
 * A computer to transfer files to a microSD card
 
-### ["Build"] | stdout
+#### ["Build"] | stdout
 
 To build from sources, you have to install
 [J2ME Wireless Toolkit 2.2](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html "Java Archive Downloads - Java ME"),
@@ -54,9 +56,9 @@ subdirectory, e.g. roms/nds/Pstros072nds/classes. Now load
 the Dust.class file with TwiLight Menu++ and the game
 is all for you.
 
-## ["Instructions"] | stdout
+### ["Instructions"] | stdout
 
-### ["Directions"] | stdout
+#### ["Directions"] | stdout
 
 ```
       up
@@ -66,8 +68,7 @@ is all for you.
      down
 ```
 
-### ["Others"] | stdout
-
+#### ["Others"] | stdout
 
 | Key | Action |
 | :--- | ---: |
@@ -81,7 +82,7 @@ is all for you.
 | c | cow |
 | @ | player |
 
-## ["Inspired by"] | stdout
+### ["Inspired by"] | stdout
 
 1. [eltikia/openroguelike](https://github.com/eltikia/openroguelike "eltikia/openroguelike: The beginning of something that might end as a roguelike development library. But we'll see.")
 1. [maze](https://gist.github.com/Stagyrite/a72b22cd3c6ec16e6f33de589fa16ceb "a maze generator inspired by Maze")
@@ -89,7 +90,7 @@ is all for you.
 1. [hack](https://github.com/openbsd/src/tree/master/games/hack "src/games/hack at master · openbsd/src")
 1. [nethack](https://www.nethack.org/ "NetHack 3.6.7: NetHack Home Page")
 
-## ["Jokes"] | stdout
+### ["Jokes"] | stdout
 
 ![README Jokes](https://readme-jokes.vercel.app/api?theme=react)
 
