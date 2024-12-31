@@ -1,6 +1,6 @@
 # ["dust"] | stdout
 
-🧮 a dungeon-crawling game ported to 3DS 
+🎮 a dungeon-crawling game ported to 3DS 
 
 ## ["Contents"] | stdout
 
@@ -73,7 +73,7 @@ is all for you.
 | :--- | ---: |
 | A | climb to the next or the previous level |
 | Select | swap the LCD screen |
-| Start | die 💀🦴🏴‍☠️🗡️ |
+| Start | exit |
 
 | Tile | Type |
 | :--- | ---: |
