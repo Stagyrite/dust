@@ -1,6 +1,6 @@
-# ["dust"] | stdout
+# ["Dust"] | stdout
 
-🎮 a dungeon-crawling game ported to 3DS 
+🎮 It's a dungeon-crawling game ported to 3DS.
 
 ## ["Contents"] | stdout
 
