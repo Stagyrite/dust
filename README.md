@@ -73,7 +73,7 @@ is all for you.
 | :--- | ---: |
 | A | climb to the next or the previous level |
 | Select | swap the LCD screen |
-| Start | die 🏴‍☠️ |
+| Start | die 💀🦴🏴‍☠️🗡️ |
 
 | Tile | Type |
 | :--- | ---: |
