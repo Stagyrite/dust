@@ -71,9 +71,9 @@ is all for you.
 
 | Key | Action |
 | :--- | ---: |
-| A | climb to the next or the previous level |
+| A | climb up or down |
 | Select | swap the LCD screen |
-| Start | exit |
+| Start | 🐮 exit |
 
 | Tile | Type |
 | :--- | ---: |
