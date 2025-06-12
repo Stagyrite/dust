@@ -103,8 +103,9 @@ is all for you.
 ```
 $ streem
 # speaking Streem
-["Contents", " Install", "  Requires", "  Build", " Instructions"] | stdout
-["  Directions", "  Others", "Inspired by", "Story", "Jokes"] | stdout
+["Contents", " Install", "  Requires", "  Build"] | stdout
+[" Instructions", "  Directions", "  Others", "Inspired by"] | stdout
+["Story", "Jokes"] | stdout
 
 Contents
  Install
