@@ -103,9 +103,11 @@ is all for you.
 ```
 $ streem
 # speaking Streem
-["Contents", " Install", "  Requires", "  Build"] | stdout
-[" Instructions", "  Directions", "  Others", "Inspired by"] | stdout
-["Story", "Jokes"] | stdout
+menu1 = ["Contents", " Install", "  Requires", "  Build"]
+menu2 = [" Instructions", "  Directions", "  Others"]
+menu3 = ["Inspired by", "Story", "Jokes"]
+menu = concat(menu1, concat(menu2, menu3))
+menu | stdout
 
 Contents
  Install
