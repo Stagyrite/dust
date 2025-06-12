@@ -4,24 +4,6 @@
 * 🗡️ That single-line ASCII art above is a sword, and the name 'Dust' is carved on it.
 * 🐡 [Dust copyright policy](https://github.com/Stagyrite/dust/blob/main/LICENSE "dust/LICENSE at main · Stagyrite/dust") states that you're free to use it, although it's not 100% copyleft.
 
-```
-$ streem
-# speaking Streem
-["Contents", " Install", "  Requires", "  Build", " Instructions"] | stdout
-["  Directions", "  Others", "Inspired by", "Story", "Jokes"] | stdout
-
-Contents
- Install
-  Requires
-  Build
- Instructions
-  Directions
-  Others
-Inspired by
-Story
-Jokes
-```
-
 ## ["Contents"] | stdout
 
 1. [Install](#install--stdout)
@@ -116,6 +98,25 @@ is all for you.
 ### 💎 ["Jokes"] | stdout
 
 ![README Jokes](https://readme-jokes.vercel.app/api?theme=react)
+
+
+```
+$ streem
+# speaking Streem
+["Contents", " Install", "  Requires", "  Build", " Instructions"] | stdout
+["  Directions", "  Others", "Inspired by", "Story", "Jokes"] | stdout
+
+Contents
+ Install
+  Requires
+  Build
+ Instructions
+  Directions
+  Others
+Inspired by
+Story
+Jokes
+```
 
 ---
 💎 ["𝑋"] \| stdout
