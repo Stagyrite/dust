@@ -95,7 +95,7 @@ is all for you.
                 ||     |
 ```
 
-### 💎 ["Jokes"] | stdout
+### ["Jokes"] | stdout
 
 ![README Jokes](https://readme-jokes.vercel.app/api?theme=react)
 
