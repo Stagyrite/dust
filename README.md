@@ -101,24 +101,12 @@ is all for you.
 
 
 ```
-$ streem
 # speaking Streem
 menu1 = ["Contents", " Install", "  Requires", "  Build"]
 menu2 = [" Instructions", "  Directions", "  Others"]
 menu3 = ["Inspired by", "Story", "Jokes"]
 menu = concat(menu1, concat(menu2, menu3))
 menu | stdout
-
-Contents
- Install
-  Requires
-  Build
- Instructions
-  Directions
-  Others
-Inspired by
-Story
-Jokes
 ```
 
 ---
