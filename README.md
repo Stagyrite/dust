@@ -4,7 +4,7 @@
 * 🗡️ That single-line ASCII art above is a sword, and the name 'Dust' is carved on it.
 * 🐡 [Dust copyright policy](https://github.com/Stagyrite/dust/blob/main/LICENSE "dust/LICENSE at main · Stagyrite/dust") states that you're free to use it, although it's not 100% copyleft.
 
-## ["Contents"] | stdout
+## Contents
 
 1. [Install](#install--stdout)
    * [Requires](#requires--stdout)
@@ -16,15 +16,15 @@
 1. [Story](#story--stdout)
 1. [Jokes](#jokes--stdout)
 
-### ["Install"] | stdout
+### Install
 
-#### ["Requires"] | stdout
+#### Requires
 
 * [Hardmodded Nintendo 3DS](https://repository-images.githubusercontent.com/778793386/dd003f0d-9b3d-4480-895c-d61aea643555 "OpenRoguelike ported to 3DS") or compatible
 * [TwiLight Menu++ developed by Rocket Robz](https://wiki.ds-homebrew.com/twilightmenu/ "TWiLight Menu++ &#124; DS-Homebrew Wiki")
 * [Pstros NDS](https://github.com/ole00/pstros-nds "ole00/pstros-nds: J2ME MIDP implementation")
 
-#### ["Build"] | stdout
+#### Build
 
 To build from sources, you have to install
 [J2ME Wireless Toolkit 2.2](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html "Java Archive Downloads - Java ME"),
@@ -38,9 +38,9 @@ subdirectory, e.g. roms/nds/Pstros072nds/classes. Now load
 the Dust.class file with TwiLight Menu++ and the game
 is all for you.
 
-### ["Instructions"] | stdout
+### Instructions
 
-#### ["Directions"] | stdout
+#### Directions
 
 ```
       up
@@ -50,7 +50,7 @@ is all for you.
      down
 ```
 
-#### ["Others"] | stdout
+#### Others
 
 | Key | Action |
 | :--- | ---: |
@@ -67,7 +67,7 @@ is all for you.
 | c | 🐮 speaking cow |
 | @ | player |
 
-### ["Inspired", "by"] | stdout
+### Inspired by
 
 * 🎮 [DSband](https://github.com/eltikia/openroguelike/discussions/6 "Nintendo 3DS port · eltikia/openroguelike · Discussion #6")
 * 👺 [Eltikia/OpenRoguelike](https://github.com/eltikia/openroguelike "eltikia/openroguelike: The beginning of something that might end as a roguelike development library. But we'll see.")
@@ -76,7 +76,7 @@ is all for you.
 * 🍅 [Hack](https://github.com/openbsd/src/tree/master/games/hack "src/games/hack at master · openbsd/src")
 * 🎲 [NetHack](https://www.nethack.org/ "NetHack 3.6.7: NetHack Home Page")
 
-### ["Story"] | stdout
+### Story
 
 ```
  _________________________________________
@@ -95,10 +95,9 @@ is all for you.
                 ||     |
 ```
 
-### ["Jokes"] | stdout
+### Jokes
 
 ![README Jokes](https://readme-jokes.vercel.app/api?theme=react)
-
 
 ```
 # speaking Streem
@@ -110,4 +109,5 @@ menu | stdout
 ```
 
 ---
-["𝑋"] \| stdout
+[Dust](https://stagyrite.github.io/dust/ "[O]xxxxxx[[/\/\/\/\ DUST/\/\/\/\/\ > &#124; dust")
+
