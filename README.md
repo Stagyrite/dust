@@ -6,15 +6,15 @@
 
 ## Contents
 
-1. [Install](#install--stdout)
-   * [Requires](#requires--stdout)
-   * [Build](#build--stdout)
-1. [Instructions](#instructions--stdout)
-   * [Directions](#directions--stdout)
-   * [Others](#others--stdout)
-1. [Inspired by](#inspired-by--stdout)
-1. [Story](#story--stdout)
-1. [Jokes](#jokes--stdout)
+1. [Install](#install)
+   * [Requires](#requires)
+   * [Build](#build)
+1. [Instructions](#instructions)
+   * [Directions](#directions)
+   * [Others](#others)
+1. [Inspired by](#inspired-by)
+1. [Story](#story)
+1. [Jokes](#jokes)
 
 ### Install
 
