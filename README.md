@@ -1,7 +1,8 @@
 # [O]xxxxxx[[/\/\/\/\ DUST/\/\/\/\/\ >
 
 * 🎮 It's a dungeon-crawling game ported to 3DS. I'd call it ___dustlike___, but it's roguelike.
-* 🗡️ That single-line ASCII art above is a sword, and the name 'Dust' is carved on it.
+* 🎲 Inspired by [DSband](https://github.com/eltikia/openroguelike/discussions/6 "Nintendo 3DS port · eltikia/openroguelike · Discussion #6") (an [OpenRoguelike](https://github.com/eltikia/openroguelike "eltikia/openroguelike: The beginning of something that might end as a roguelike development library. But we'll see.") port to softmodded 3DS).
+* 🗡️ The above single-line ASCII art depicts a sword with the name 'Dust' carved.
 * 🐡 [Dust copyright policy](https://github.com/Stagyrite/dust/blob/main/LICENSE "dust/LICENSE at main · Stagyrite/dust") states that you're free to use it, although it's not 100% copyleft.
 
 ## Contents
@@ -12,7 +13,6 @@
 1. [Instructions](#instructions)
    * [Directions](#directions)
    * [Others](#others)
-1. [Inspired by](#inspired-by)
 1. [Story](#story)
 1. [Jokes](#jokes)
 
@@ -67,15 +67,6 @@ is all for you.
 | c | 🐮 speaking cow |
 | @ | player |
 
-### Inspired by
-
-* 🎮 [DSband](https://github.com/eltikia/openroguelike/discussions/6 "Nintendo 3DS port · eltikia/openroguelike · Discussion #6")
-* 👺 [Eltikia/OpenRoguelike](https://github.com/eltikia/openroguelike "eltikia/openroguelike: The beginning of something that might end as a roguelike development library. But we'll see.")
-* 🧩 [Maze](https://gist.github.com/Stagyrite/a72b22cd3c6ec16e6f33de589fa16ceb "a maze generator inspired by Maze")
-* ⚛️ [Rogue](https://github.com/Davidslv/rogue "Davidslv/rogue: Original Rogue Game (5.4.4)")
-* 🍅 [Hack](https://github.com/openbsd/src/tree/master/games/hack "src/games/hack at master · openbsd/src")
-* 🎲 [NetHack](https://www.nethack.org/ "NetHack 3.6.7: NetHack Home Page")
-
 ### Story
 
 ```
@@ -98,15 +89,6 @@ is all for you.
 ### Jokes
 
 ![README Jokes](https://readme-jokes.vercel.app/api?theme=react)
-
-```
-# speaking Streem
-menu1 = ["Contents", " Install", "  Requires", "  Build"]
-menu2 = [" Instructions", "  Directions", "  Others"]
-menu3 = ["Inspired by", "Story", "Jokes"]
-menu = concat(menu1, concat(menu2, menu3))
-menu | stdout
-```
 
 ---
 [Dust](https://stagyrite.github.io/dust/ "[O]xxxxxx[[/\/\/\/\ DUST/\/\/\/\/\ > &#124; dust")
