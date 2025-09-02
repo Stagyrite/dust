@@ -1,4 +1,4 @@
-# ⚔️ Dust
+# Dust
 
 * 🎮 It's a dungeon-crawling game ported to 3DS. I'd call it ___dustlike___, but it's roguelike.
 * 🎲 Inspired by [DSband](https://github.com/eltikia/openroguelike/discussions/6 "Nintendo 3DS port · eltikia/openroguelike · Discussion #6") (an [OpenRoguelike](https://github.com/eltikia/openroguelike "eltikia/openroguelike: The beginning of something that might end as a roguelike development library. But we'll see.") port to softmodded 3DS).
@@ -91,5 +91,5 @@ is all for you.
 
 ---
 
-⚔️🚢🌊🏴‍☠️
+⚔️🛡️🏹🗡️
 
