@@ -76,7 +76,7 @@ is all for you.
 | warrior-bard Ossian had ordered you to  |
 | crawl down to level 99. He believes     |
 | that your success can help              |
-\ the Fighters Guild.                     /
+\ the Fighters Guild. -- Thè Speaking Cow /
  -----------------------------------------
         \   ^__^
          \  (..)\_______
