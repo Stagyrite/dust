@@ -34,7 +34,7 @@ Run build.bat, which should output binaries to the 'output' directory.
 To install, copy the content of the 'output' directory to the microSD card
 from your 3DS. The destination directory has to have the 'nds'
 subdirectory, e.g. roms/nds/Pstros072nds/classes. Now load
-the Dust.class file with TwiLight Menu++ and the game
+the Dust.class file with TwiLight Menu++, and the game
 is all for you.
 
 ### Instructions
@@ -63,7 +63,7 @@ is all for you.
 | < | stairs up |
 | = | wall |
 | + | door |
-| c | speaking cow |
+| c | cow |
 | @ | player |
 
 ### Story
@@ -76,13 +76,14 @@ is all for you.
 | warrior-bard Ossian had ordered you to  |
 | crawl down to level 99. He believes     |
 | that your success can help              |
-\ the Fighters Guild. -- The Speaking Cow /
+\ the Fighters Guild.                     /
  -----------------------------------------
-        \   ^__^
-         \  (..)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     |
+                           (__)   /
+                           (oo)  /
+                     /------\/
+                    / |    ||
+                   *  /\---/\
+                      ~~   ~~
 ```
 
 ### Jokes
