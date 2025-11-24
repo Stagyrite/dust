@@ -12,7 +12,7 @@
 1. [Instructions](#instructions)
    * [Directions](#directions)
    * [Others](#others)
-1. [Story](#story)
+1. [Two cows say](#two-cows-say)
 1. [Jokes](#jokes)
 
 ### Install
@@ -66,7 +66,7 @@ is all for you.
 | c | cow |
 | @ | player |
 
-### ASCII picture
+### Two cows say
 
 ```
  _________________________________________
