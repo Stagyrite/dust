@@ -1,6 +1,6 @@
 # Dust
 
-* 🎮 It's a dungeon-crawling game ported to 3DS. I'd call it ___dustlike___, but it's roguelike.
+* 🎮 It's a __roguelike__ dungeon-crawling game ported to 3DS.
 * 🎲 Inspired by [DSband](https://github.com/eltikia/openroguelike/discussions/6 "Nintendo 3DS port · eltikia/openroguelike · Discussion #6") (an [OpenRoguelike](https://github.com/eltikia/openroguelike "eltikia/openroguelike: The beginning of something that might end as a roguelike development library. But we'll see.") port to softmodded 3DS).
 * 🐡 [Dust copyright policy](https://github.com/Stagyrite/dust/blob/main/LICENSE "dust/LICENSE at main · Stagyrite/dust") states that you're free to use it, although it's not 100% copyleft.
 * ☕ Check out a similar level compiler that I called [LibreRoguelike](https://gist.github.com/Stagyrite/921e5e48465e92ee0fe829b4e32b2c05 "🦇 a level compiler inspired by openroguelike").
